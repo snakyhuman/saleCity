@@ -1,0 +1,15 @@
+C:\projects\SaleCity\SaleCity\SaleCity\bin\Debug\netstandard2.0\SaleCity.deps.json
+C:\projects\SaleCity\SaleCity\SaleCity\bin\Debug\netstandard2.0\SaleCity.dll
+C:\projects\SaleCity\SaleCity\SaleCity\bin\Debug\netstandard2.0\SaleCity.pdb
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.csprojResolveAssemblyReference.cache
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.csproj.CoreCompileInputs.cache
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.App.xaml.g.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.Views.AboutPage.xaml.g.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.Views.ItemDetailPage.xaml.g.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.Views.ItemsPage.xaml.g.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.Views.MainPage.xaml.g.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.Views.NewItemPage.xaml.g.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.AssemblyInfoInputs.cache
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.AssemblyInfo.cs
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.dll
+C:\projects\SaleCity\SaleCity\SaleCity\obj\Debug\netstandard2.0\SaleCity.pdb
